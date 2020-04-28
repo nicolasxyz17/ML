@@ -1,5 +1,5 @@
 """
-Clase 1: Workflow modelo con scikit-learn
+Scikit-learn - Supervised Learning
 """
 # %% Import
 import numpy as np
